@@ -1,0 +1,31 @@
+#delivery {
+	font-size: 30px;
+	color: fuchsia;
+}
+
+body {
+	font-family: Palatino, Times;
+	font-size: 17px;
+}
+
+h1 {
+	font-family: Optima, Perpetua, Helvetica;
+	font-size: 35px;
+}
+
+h2 {
+	font-family: Candara, 'Gill Sans', sans-serif;
+	font-size: 30px;
+}
+
+b {
+	font-family: Candara, 'Gill Sans', sans-serif;
+}
+
+
+img {
+	float:right;
+}
+
+
+
